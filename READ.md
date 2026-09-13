@@ -1,3 +1,5 @@
+https://killin1t1331.github.io/-fluid-matrix-grid/
+
 # Fluid Matrix Grid Simulation Engine
 
 A zero-dependency, offline-first 2D canvas simulation modeling localized fluid matrix dynamics with zero cloud tracking or data collection.
